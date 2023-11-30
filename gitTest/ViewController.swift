@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func setupViews() {
         
     }
+    
+    func setupConstraints() {
+        
+    }
 }
 
